@@ -1,0 +1,48 @@
+Who is the creator of the C programming language?
+A. James Gosling
+B. Dennis Ritchie
+C. Bjarne Stroustrup
+D. Guido van Rossum
+B
+Which of the following is the correct extension of a C source file?
+A. .cpp
+B. .c
+C. .cs
+D. .py
+B
+Which function serves as the entry point of every C program?
+A. start()
+B. init()
+C. main()
+D. execute()
+C
+Which symbol is used to create a single-line comment in C?
+A. /*
+B. //
+C. #
+D. <!--
+B
+Which format specifier is used to print or read an integer value in C?
+A. %c
+B. %f
+C. %s
+D. %d
+D
+What does the 'break' keyword do when used inside a loop?
+A. Pauses the loop
+B. Skips the current iteration
+C. Exits the loop immediately
+D. Restarts the loop
+C
+Which keyword is used to declare a constant variable in C?
+A. constant
+B. final
+C. static
+D. const
+D
+In C, what is the array index of the first element?
+A. 1
+B. 0
+C. -1
+D. It depends on the compiler
+B
